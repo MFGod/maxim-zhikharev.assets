@@ -1,0 +1,25 @@
+Фоновая музыка мира. Ни один трек не связан с саундтреками Elden Ring или
+Dark Souls: те принадлежат Bandai Namco / FromSoftware и в проекте не
+используются. Здесь только свободные записи в том же настроении.
+
+Файлы пережаты для веба: mp3 96 kbps, громкость выровнена (loudnorm I=-20),
+на входе и выходе добавлено затухание, чтобы стык при зацикливании не щёлкал.
+Оригиналы — по ссылкам ниже.
+
+--------------------------------------------------------------------------
+lost-frontier.mp3
+  «Lost Frontier» — Kevin MacLeod (incompetech.com)
+  Лицензия: Creative Commons Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+  https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lost%20Frontier.mp3
+
+heavy-heart.mp3
+  «Heavy Heart» — Kevin MacLeod (incompetech.com)
+  Лицензия: Creative Commons Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+  https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heavy%20Heart.mp3
+
+--------------------------------------------------------------------------
+
+Атрибуция CC BY 4.0 обязательна и продублирована в интерфейсе: подпись под
+списком в меню мира и раздел в README.
