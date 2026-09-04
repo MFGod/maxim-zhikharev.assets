@@ -1,0 +1,28 @@
+Кустики травы: grass_green_1.glb, grass_yellow_1.glb
+
+grass_green_1.glb
+  «grass green» — Steve B
+  Лицензия: Creative Commons Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+  https://poly.pizza/m/8q6D0D_SuBE
+
+grass_yellow_1.glb
+  «grass yellowing» — Steve B
+  Лицензия: Creative Commons Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+  https://poly.pizza/m/eFUpFgjCf0p
+
+--------------------------------------------------------------------------
+
+Атрибуция CC BY 4.0 обязательна и продублирована в интерфейсе: раздел «Титры»
+в шторке меню (`enumerations/credits.ts`) и раздел в README.
+
+Вторая модель названа «yellow» по имени автора («yellowing»), а не по цвету:
+это зелёная трава с жёлтыми кончиками, три материала — зелёный, тёмно-зелёный
+и жёлтый. Цвет не менялся, модели взяты как есть.
+
+Файлы подготовлены под инстансирование сцены (`scripts/build-grass-model.py`):
+82 и 147 отдельных мешей сшиты в один — сцена собирает инстанс из одного,
+— снят мёртвый TEXCOORD_0 (текстур в моделях нет), начало координат посажено
+в низ кустика по центру, геометрия сжата DRACO. 183 КБ -> 15,6 КБ и
+328 КБ -> 27,9 КБ.

@@ -1,0 +1,11 @@
+Модели животных: deer.glb, stag.glb, wolf.glb, fox.glb
+
+Из пака «Ultimate Animated Animal Pack» (Quaternius, 2021).
+Лицензия: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Источник: https://quaternius.com/packs/ultimateanimatedanimals.html
+
+Указание автора лицензией не требуется, но оно здесь по той же причине, что и
+в CREDITS.txt звуковых записей: происхождение ассета должно быть проверяемым.
+
+Файлы обрезаны под мир: из двадцати шести клипов оставлено шесть — Idle, Walk,
+Gallop, Eating, Death, Attack, — геометрия сжата DRACO. Один файл 1 МБ -> 190 КБ.
